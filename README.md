@@ -1,5 +1,5 @@
 # CAPSTONE-PROJECT
-This project focuses on creating a Continuous Glucose Monitoring (CGM) device using a specially designed Printed Circuit Board (PCB). The goal is to develop a non-invasive solution that allows users to monitor their glucose levels comfortably and continuously, without the need for painful finger pricks.
+This project focuses on creating a Continuous Glucose Monitoring (CGM) device using a specially designed Printed Circuit Board (PCB). The goal is to develop a non-invasive solution that allows users to monitor their glucose levels comfortably and continuously, without the need for painful finger pricks.<br>
 Key Features:
 *Compact Design*: The PCB integrates several important components, such as a glucose sensor, microcontroller, power management system, and wireless communication module, into a small and efficient unit. This miniaturization helps make the device lightweight and easy to wear, like a smartwatch.
 *Power Efficiency*: The design focuses on using power efficiently, allowing the device to operate for extended periods without needing frequent recharging. This is crucial for users who rely on continuous monitoring throughout their daily activities.
