@@ -1,1 +1,21 @@
+## Title: Continuous Glucose Monitoring – PCB design
+## Project Supervisor: Dr. Munmun Das
+## Cluster Name (AI/ML, VLSI, Comm., CSP, Power Systems): VLSI
+## Project Coordinator: 
+(If Interdisciplinary, share details)
+
+## Mini Project (PROJ2999) Outcome:
+•	Customized PCB for CGM device: Developed a PCB integrating a glucose sensor, microcontroller, power management, and wireless communication, achieving accuracy comparable to traditional methods.
+•	Performance: Testing confirmed accurate glucose monitoring and extended battery life for improved user convenience.
+•	Comparison with Existing Technologies: Emphasized miniaturization and cost-effectiveness, offering a non-invasive alternative to traditional methods, enhancing comfort and compliance.
+
+## Abstract:
+Continuous glucose monitoring (CGM) systems have emerged as a promising solution for diabetes management, offering real-time glucose level tracking without the need for frequent blood collection. This study presents the design and implementation of a printed circuit board (PCB) for a non-invasive CGM device, incorporating a microcontroller-based glucose sensor and a user-friendly dashboard interface. The PCB design integrates advanced sensing technologies with signal processing capabilities to accurately measure glucose levels through the skin. The Key features of the PCB include low power consumption, miniaturization for wearability, and robust signal conditioning circuitry to enhance measurement accuracy. The microcontroller processes the sensor data and transmits it wirelessly to a dashboard interface, providing users with real-time glucose level information, trends, and alerts. The dashboard interface offers intuitive visualization of glucose data, customizable alerts, and data export capabilities for healthcare providers. Preliminary testing of the PCB design demonstrates its ability to consistently detect glucose levels within clinically acceptable ranges. This research contributes to the advancement of non-invasive CGM technology, potentially improving the quality of life for individuals with diabetes by offering a convenient and pain-free glucose monitoring solution.
+
+# Keywords: Wearable, CGM, PCB, Electrochemical, Non-invasive, Dashboard interface
+
+## Extended Project Objectives: -
+•	Design and Implementation: Develop a non-invasive CGM device PCB integrating a microcontroller-based glucose sensor with advanced sensing technologies for accurate glucose measurement through the skin.
+•	Low Power and Wearability: Ensure low power consumption, miniaturization for wearability, and robust signal conditioning for enhanced accuracy and real-time performance.
+•	User-Friendly Dashboard: Create an intuitive dashboard interface for real-time glucose data visualization, customizable alerts, and data export capabilities for healthcare providers.
 
